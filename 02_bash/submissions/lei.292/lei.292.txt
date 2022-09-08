@@ -1,0 +1,7 @@
+This is my submission.
+total 0
+drwxr-xr-x  4 leixiangxi  staff  128 Sep  8 17:22 folder_1
+total 8
+drwxr-xr-x  4 leixiangxi  staff  128 Sep  8 17:22 folder_1
+-rw-r--r--  1 leixiangxi  staff   91 Sep  8 17:25 lei.292.txt
+/Users/leixiangxi/BuckeyeAutodrive/PerceptionTutorials/02_bash/submissions/lei.292
